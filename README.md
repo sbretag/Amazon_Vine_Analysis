@@ -21,8 +21,7 @@ The team has been tasked with another larger project to analyze Amazon video gam
   - Of the 40,565 reviews, 15,711 (38.7%) were 5 star reviews
   - Of the 15,711 5 star reviews, 15,663 (99.7%) were from non vine reviews and 94 (0.3%) were from vine reviews
   - Vine reviews were found to have a 5 star rating 51% of the time and non vine reviews were found to have a 5 star rating 39% of the time
- -   more than 20 votes and those that were found helpful (50%+), there were a total of 
-
+ 
 ## Summary
 
 
