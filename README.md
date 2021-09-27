@@ -24,4 +24,5 @@ The team has been tasked with another larger project to analyze Amazon video gam
  
 ## Summary
 
+ - Overall there appears to be a slight bias with video game Vine reviews getting a 5 star rating based on the 51% ration versus the 39%.  With that said, the 51% ratio is based on relatively small share of the overall reviews (0.2%).  Therefore I believe further testing would be needed to statistically conclude there is bias.  To test further and get around the relatively small size, I would look at all reviews, not just for video games and apply the same analysis.  If the results are consistent across the different data set types, I would feel more confident that Vine reviews are biased.
 
