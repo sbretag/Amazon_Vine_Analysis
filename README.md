@@ -14,7 +14,15 @@ The team has been tasked with another larger project to analyze Amazon video gam
 - Software: Spark 3.1.2, AWS RDS Database, Pg Admin 4
 
 
-## Results
+## Results 
 
+ - After applying relevancy filters for amazon video game reviews w/20+ votes and with a 50% or higher ratio of helpful votes, the following counts were found
+  - 40,565 reviews (filtered for relevancy) of which 40,471 (99.8%) were non vine reviews and 94 (0.2%) were vine reviews
+  - Of the 40,565 reviews, 15,711 (38.7%) were 5 star reviews
+  - Of the 15,711 5 star reviews, 15,663 (99.7%) were from non vine reviews and 94 (0.3%) were from vine reviews
+  - Vine reviews were found to have a 5 star rating 51% of the time and non vine reviews were found to have a 5 star rating 39% of the time
+ -   more than 20 votes and those that were found helpful (50%+), there were a total of 
 
 ## Summary
+
+
