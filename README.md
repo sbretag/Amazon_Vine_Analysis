@@ -9,7 +9,7 @@ The team has been tasked with another larger project to analyze Amazon video gam
 
 ## Resources
 - [ETL Code](https://github.com/sbretag/Amazon_Vine_Analysis/blob/main/Amazon_Reviews_ETL.ipynb)
-- [Analysis Code](https://github.com/sbretag/Amazon_Vine_Analysis/blob/main/Amazon_Reviews_ETL.ipynb)
+- [Analysis Code](https://github.com/sbretag/Amazon_Vine_Analysis/blob/main/Vine_Review_Analysis.ipynb)
 - [Amazon Video Game Review Data Set](https://s3.amazonaws.com/amazon-reviews-pds/tsv/amazon_reviews_us_Video_Games_v1_00.tsv.gz)
 - Software: Spark 3.1.2, AWS RDS Database, Pg Admin 4
 
